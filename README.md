@@ -2,7 +2,7 @@ Team ID : NM2025TMID01180
 
 Team Size : 3
 
-Team Leader : Vignesh
+Team Leader : Vignesh T
 
 Team member : Santhosh Kumar R
 
